@@ -5,11 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
+
 body {
   font-family: "Droid Sans", Arial, sans-serif;
   font-weight: 400;
@@ -356,7 +352,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #myVideo {
   position: fixed;
   right: 0;
-  bottom: 0;
+  top: 0;
   min-width: 100%;
   min-height: 100%;
   opacity: 30%;
